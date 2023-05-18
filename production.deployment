@@ -1,13 +1,8 @@
 {deployment_spec,"production",
  [
-   {"dbetcd_appl","c200"},
-   {"dbetcd_appl","c201"},
-   {"kube_appl","c200"},
-   {"kube_appl","c201"},
-   {"adder","c200"},
-   {"divi","c200"},
-   {"divi","c201"},
-   {"test_appl","c200"},
-   {"test_appl","c201"}
+   {"dbetcd_appl","c202"},
+   {"adder","c202"},
+   {"divi","c202"},
+   {"test_appl","c202"}
  ]
 }.
