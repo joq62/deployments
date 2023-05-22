@@ -1,0 +1,12 @@
+{deployment_spec,"test",
+ [
+   {"dbetcd_appl","c50"},
+   {"dbetcd_appl","c50"},	
+   {"adder","c50"},
+   {"adder","c50"},	
+   {"adder","c50"},	
+   {"divi","c50"},
+   {"test_appl","c50"},
+   {"test_appl","c50"}	
+ ]
+}.
