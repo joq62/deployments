@@ -1,7 +1,7 @@
 {deployment_spec,"infra",
  [
    {"dbetcd_appl","c201"},
-   {"dbetcd_appl","c202"}
+   {"dbetcd_appl","c200"}
   
  ]
 }.
