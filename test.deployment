@@ -1,5 +1,8 @@
 {deployment_spec,"test",
  [
+   {"etcd","c50"},
+   {"etcd","c50"},
+   {"etcd","c50"},
    {"adder","c50"},
    {"adder","c50"},	
    {"adder","c50"},	
