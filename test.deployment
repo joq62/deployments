@@ -1,15 +1,12 @@
 {deployment_spec,"test",
  [
    {"control","c50"},
-   {"control","c50"},
-   {"control","c50"},
+   {"control","c200"},
    {"etcd","c50"},
-   {"etcd","c50"},
-   {"etcd","c50"},
+   {"etcd","c200"},
    {"adder","c50"},
-   {"adder","c50"},	
-   {"adder","c50"},	
+   {"adder","c200"},		
    {"divi","c50"},
-   {"divi","c50"}
+   {"divi","c200"}
  ]
 }.
