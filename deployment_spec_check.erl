@@ -38,6 +38,7 @@ check([{ok,[{deployment_spec,_Id,Info}]}|T])->
 %% --------------------------------------------------------------------
 all_files()->
     {ok,Files}=file:list_dir(?Dir),
+    io:format("Files ~p~n",[Files]),
     FileNames=[filename:join(?Dir,Filename)||Filename<-Files,
 					     ?FileExt=:=filename:extension(Filename)],
     FileNames.    

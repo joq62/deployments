@@ -1,0 +1,13 @@
+{deployment_spec,"test"}.
+ {cookie,"test2"}.
+ {deployment_list,
+   [
+    {"1_control_test2_c50","control","c50"},
+    {"2_control_test2_c200","control","c200"},
+    {"3_etcd_test2_c50","etcd","c50"},
+    {"4_etcd_test2_c200","etcd","c200"},
+    {"5_adder_test2_c50","adder","c50"},
+    {"6_adder_test2_c200","adder","c200"},
+    {"7_divi_test2_c50","divi","c50"},
+    {"8_divi_test2_c200","divi","c50"}
+    ]}.
