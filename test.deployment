@@ -3,6 +3,10 @@
    {"control","c200"},
    {"etcd","c200"},
    {"adder","c200"},		
-   {"divi","c200"}
+   {"divi","c200"},
+    {"control","c50"},
+   {"etcd","c50"},
+   {"adder","c50"},		
+   {"divi","c50"}
  ]
 }.
