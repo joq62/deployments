@@ -24,7 +24,7 @@ start()->
 
 check([])->
     io:format("Success, OK ! ~n");
-check([{ok,[{deployment_spec,_Id,Info}]}|T])->
+check([{ok,[{deployment_spec,Info}]}|T])->
     io:format("Checking ~p~n",[Info]),
     L=[{ProviderSpec,HostSpec}||{ProviderSpec,HostSpec}<-Info],
     check(T).

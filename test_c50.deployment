@@ -1,4 +1,4 @@
-{deployment_spec,"test_c50",
+{deployment_spec,
  [
    {"control","c50"},
    {"etcd","c50"},
