@@ -26,7 +26,8 @@ check([])->
     io:format("Success, OK ! ~n");
 check([{ok,[{deployment_spec,Info}]}|T])->
     io:format("Checking ~p~n",[Info]),
-    L=[{ProviderSpec,HostSpec}||{ProviderSpec,HostSpec}<-Info],
+    true=proplists:is_defined(name,Info),
+    true=proplists:is_defined(deployment_list,Info),
     check(T).
 
    
