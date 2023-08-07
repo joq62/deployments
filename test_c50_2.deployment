@@ -1,0 +1,19 @@
+{deployment_spec,
+ [
+    {name,"test_c50_2"},
+    {deployment_list,
+	[
+   	  {"control","c50"},
+	  {"control","c50"},
+	  {"control","c50"},
+   	  {"etcd","c50"},
+	  {"etcd","c50"},
+	  {"etcd","c50"},
+   	  {"adder","c50"},
+	  {"adder","c50"},				
+	  {"adder","c50"},
+	  {"divi","c50"},
+   	  {"divi","c50"}
+ 	]}
+ ]
+}.
