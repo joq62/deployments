@@ -3,6 +3,7 @@
     {name,"test_c50"},
     {deployment_list,
 	[
+	  {"log","c50"},
    	  {"control","c50"},
    	  {"etcd","c50"},
    	  {"adder","c50"},		
