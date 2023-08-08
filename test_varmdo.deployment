@@ -5,13 +5,13 @@
 	[
 	  {"log","c50"},	
    	  {"control","c50"},
-	  {"control","c202"},
+	  {"control","c200"},
    	  {"etcd","c50"},
-	  {"etcd","c202"},
-   	  {"adder","c202"},
+	  {"etcd","c200"},
+   	  {"adder","c200"},
 	  {"adder","c50"},				
 	  {"adder","c50"},
-	  {"divi","c202"},
+	  {"divi","c200"},
    	  {"divi","c50"}
  	]}
  ]
