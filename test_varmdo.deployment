@@ -1,0 +1,18 @@
+{deployment_spec,
+ [
+    {name,"test_varmdo"},
+    {deployment_list,
+	[
+	  {"log","c50"},	
+   	  {"control","c50"},
+	  {"control","c202"},
+   	  {"etcd","c50"},
+	  {"etcd","c202"},
+   	  {"adder","c202"},
+	  {"adder","c50"},				
+	  {"adder","c50"},
+	  {"divi","c202"},
+   	  {"divi","c50"}
+ 	]}
+ ]
+}.
