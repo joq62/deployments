@@ -1,18 +1,22 @@
 {deployment_spec,
  [
-    {name,"test_varmdo"},
+    {name,"test_varmdo_c200_c202"},
     {deployment_list,
 	[
 	  {"log","c50"},	
    	  {"control","c50"},
 	  {"control","c200"},
+	  {"control","c202"},
    	  {"etcd","c50"},
 	  {"etcd","c200"},
-   	  {"adder","c200"},
-	  {"adder","c50"},				
-	  {"adder","c50"},
+	  {"etcd","c200"},
+	  {"adder","c50"},	
+	  {"adder","c200"},
+	  {"adder","c202"},
+	  {"divi","c50"},
 	  {"divi","c200"},
-   	  {"divi","c50"}
+	  {"divi","c202"}
+   	  
  	]}
  ]
 }.
