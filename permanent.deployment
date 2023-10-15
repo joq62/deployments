@@ -1,0 +1,10 @@
+{deployment_spec,
+ [
+    {name,"permanent"},
+    {deployment_list,
+	[
+	  {"adder","c50"},		
+	  {"adder","c201"}
+ 	]}
+ ]
+}.
