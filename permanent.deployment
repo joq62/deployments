@@ -3,7 +3,8 @@
     {name,"permanent"},
     {deployment_list,
 	[
-	  {"adder","c50"},		
+	  {"adder","c50"},
+	  {"lgh_phoscon_provider","c201"},
 	  {"adder","c201"}
  	]}
  ]
