@@ -6,7 +6,8 @@
 	  {"adder","c50"},
 	  {"lgh_phoscon_provider","c201"},
 	  {"zigbee_provider","c201"},
-	  {"lgh_web_provider","c201"},		
+	  {"lgh_web_provider","c201"},
+	  {"balcony_pid_provider","c201"},
 	  {"adder","c201"}
  	]}
  ]
