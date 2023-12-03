@@ -8,7 +8,11 @@
 	  {"zigbee_provider","c201"},
 	  {"lgh_web_provider","c201"},
 	  {"balcony_pid_provider","c201"},
-	  {"adder","c201"}
+	  {"adder","c201"},
+	  {"adder","c200"},
+	  {"adder","c200"},
+	  {"divi","c200"}
+	  
  	]}
  ]
 }.
