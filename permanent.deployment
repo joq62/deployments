@@ -8,9 +8,10 @@
 	  {"zigbee_devices","c201"},
 	  {"lgh_web","c201"},
 	  {"balcony_pid","c201"},
+	  {"mymath","c200"},
 	  {"adder","c201"},
 	  {"adder","c200"},
-	  {"adder","c200"},
+	  {"divi","c201"},
 	  {"divi","c200"}
 	  
  	]}
