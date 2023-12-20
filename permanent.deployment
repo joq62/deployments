@@ -9,10 +9,14 @@
 	  {"lgh_web","c201"},
 	  {"balcony_pid","c201"},
 	  {"mymath","c200"},
+          {"adder","c200"},
 	  {"adder","c201"},
-	  {"adder","c200"},
+	  {"adder","c202"},
+	  {"adder","c230"},
+	  {"divi","c200"},
 	  {"divi","c201"},
-	  {"divi","c200"}
+	  {"divi","c202"},	  
+	  {"divi","c230"}
 	  
  	]}
  ]
