@@ -3,10 +3,11 @@
     {name,"test_c50"},
     {deployment_list,
 	[
-	  {"adder","c50"},		
+	  {"adder","c50"},
+	  {"adder","c50"},
+	   {"adder","c50"},			
    	  {"divi","c50"},
-	  {"adder","c201"},		
-   	  {"divi","c201"}
+   	  {"divi","c50"}
  	]}
  ]
 }.
